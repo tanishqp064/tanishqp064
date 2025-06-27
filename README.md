@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tanishq Patil</h1>
 <h3 align="center">A passionate UI/UX designer from India</h3>
 
+- 🌱 I’m currently learning **AI/ML**
+
+- 📫 How to reach me **tanishqpatil064@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/tanishq-patil-bb45432b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tanishq-patil-bb45432b7" height="30" width="40" /></a>
